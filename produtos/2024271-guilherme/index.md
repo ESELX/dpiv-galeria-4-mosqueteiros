@@ -1,5 +1,5 @@
 ---
-title: Combot
+title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -14,7 +14,7 @@ student_name: Guilherme Gonçalves
 student_number: "2024271"
 ---
 
-# ComBot
+# Nome do Produto
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto

@@ -31,7 +31,8 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/hero%201.jpg)
+![](attachments/WhatsApp%20Image%202026-06-08%20at%2015.34.30.jpeg)
+
 
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 

@@ -31,8 +31,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/imagegrupo.jpeg)
-
+![](attachments/capa.jpeg)
 
 >Embora sejam quatro brinquedos diferentes, o **Combot, o Labirinto, o Carro de Empilhagem e o Cavalo de Baloiço** partilham o mesmo objetivo: promover o desenvolvimento cognitivo e a coordenação motora das crianças, ajudando-as a crescer de forma criativa e lúdica.
 
@@ -56,24 +55,24 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/2024271-guilherme/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <img src="produtos/2024271-guilherme/attachments/bobo.jpeg" alt="" />
+    <h3>ComBot</h3>
+    <p>Guilherme Gonçalves</p>
   </a>
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="produtos/2024274-andre/">
+    <img src="produtos/2024274-andre/attachments/carrinho.jpeg" alt="" />
+    <h3>Carro de Empilhagem</h3>
+    <p>André Alves</p>
   </a>
-    <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <a class="gallery-card" href="produtos/2024309-leandro/">
+    <img src="produtos/2024309-leandro/attachments/labirinto.jpeg" alt="" />
+    <h3>Labirinto</h3>
+    <p>Leandro Arroio</p>
   </a>
-    <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <a class="gallery-card" href="produtos/2024348-goncalo/">
+    <img src="produtos/2024348-goncalo/attachments/cavalo.jpeg" alt="" />
+    <h3>Cavalo de Baloiço</h3>
+    <p>Gonçalo Lucas</p>
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 

@@ -15,7 +15,7 @@ student_number: ""
 ---
 
 # Nome do Produto
-
+![](attachments/labirinto.jpeg)
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em

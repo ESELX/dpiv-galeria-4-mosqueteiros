@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Cavalo de Baloiço
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -29,13 +29,13 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O produto tem como objetivo principal de criar um cavalo de madeira para baloiçar, que seja limitado a encaixes e evite o uso de parafusos ou cola. Tem também a intenção de ser esteticamente apresentável para que quem olhe não pense que a casa está desarrumada, para além disso visa trabalhar o equilíbrio das crianças em desenvolvimento.
 
 ![](attachments/placeholder.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O cavalo entra como função de trabalhar o equilíbrio das crianças, desenvolvendo um lado exploratório mais mecânico e funcional.
 
 ## Tecnologia
 

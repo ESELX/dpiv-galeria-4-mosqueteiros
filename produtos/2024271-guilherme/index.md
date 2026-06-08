@@ -1,10 +1,10 @@
 ---
-title: Nome do Produto
+title: ComBot
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Produto
+hero_title: ComBot
 hero_subtitle: Guilherme Gonçalves · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -14,8 +14,8 @@ student_name: Guilherme Gonçalves
 student_number: "2024271"
 ---
 
-# Nome do Produto
-
+# ComBot
+![](attachments/bobo.jpeg)
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em

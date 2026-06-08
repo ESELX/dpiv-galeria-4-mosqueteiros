@@ -3,7 +3,7 @@ title: 4 Mosqueteiros
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/bo2.png
 hero_title: 4 Mosqueteiros
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
@@ -31,8 +31,8 @@ group_number: ""
 ---
 
 ## Contexto de Design
+![](attachments/hero%201.jpg)
 
-![](attachments/placeholder.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)

@@ -31,10 +31,10 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/WhatsApp%20Image%202026-06-08%20at%2015.34.30.jpeg)
+![](attachments/imagegrupo.jpeg)
 
 
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+>Embora sejam quatro brinquedos diferentes, o **Combot, o Labirinto, o Carro de Empilhagem e o Cavalo de Baloiço** partilham o mesmo objetivo: promover o desenvolvimento cognitivo e a coordenação motora das crianças, ajudando-as a crescer de forma criativa e lúdica.
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 

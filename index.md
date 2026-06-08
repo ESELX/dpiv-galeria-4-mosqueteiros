@@ -1,5 +1,5 @@
 ---
-title: 4 Mosqueteiros
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started

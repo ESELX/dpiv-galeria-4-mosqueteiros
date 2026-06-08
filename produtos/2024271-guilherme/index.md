@@ -29,7 +29,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O **ComBot** é um comboio de madeira de pinho concebido para potenciar a imaginação e a criatividade das crianças. Combinando o conceito de blocos de construção e figuras transformáveis, este brinquedo oferece uma dupla experiência: pode ser conduzido como um comboio tradicional ou ser totalmente desmontado e reconstruído para dar forma a um robô. É acessível para todas as idades, no entanto, o ComBot foi desenhado especialmente para apoiar as crianças na sua fase essencial de desenvolvimento cognitivo e motor através do brincar.
 
 ![](attachments/placeholder.png)
 

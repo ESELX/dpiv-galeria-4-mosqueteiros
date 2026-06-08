@@ -1,35 +1,37 @@
 ---
-title: "Nome do Grupo"
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
 hero_title: "Nome do Grupo"
-hero_subtitle: "Design de Produto IV · 2025-26"
+hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
-group_name: ""
+course: DesignDeProdutoIV
+group_name: 4 Mosqueteiros
 group_number: ""
 ---
 
 # Nome do Grupo
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Substitui este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome                |
+| ------- | ------------------- |
+| 2024274 | André Alves         |
+| 2024348 | Gonçalo Lucas       |
+| 2024271 | Guilherme Gonçalves |
+| 2024309 | Leandro Arroio      |
 
 ---
 
 ## Contexto de Design
+
 ![](attachments/placeholder.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 

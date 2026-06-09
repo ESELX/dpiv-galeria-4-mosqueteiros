@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Cavalo de Baloiço
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_image: attachments/cavalo.jpeg
+hero_title: Cavalo de Baloiço
+hero_subtitle: Gonçalo Lucas · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -22,10 +22,8 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Desafia a habilidade do seu filho.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
@@ -33,8 +31,9 @@ O brinquedo baseia-se na reinterpretação do clássico cavalo de baloiço atrav
 
 Dirigido a crianças entre os 2 e os 8 anos, o brinquedo procura estimular o equilíbrio, a percepção espacial e a coordenação motora grossa através do ato mecânico de baloiçar. A liberdade formal do desenho apela ao imaginário infantil, enquanto o acabamento neutro da madeira convida à posterior personalização ou pintura por parte das crianças, prolongando o tempo de ligação emocional e lúdica com o objeto.
 
+![](attachments/cavalo_moodboard_basico.jpg)
 
-![](attachments/placeholder.png)
+
 
 ## Enquadramento
 
@@ -62,11 +61,8 @@ Destinado a uma faixa etária abrangente (dos 2 aos 8 anos), as dimensões e o c
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
----
+![](attachments/cavalo_na_sala.png)
+![](attachments/bebe_no_cavalo.png)---
 
 ## Processo
 

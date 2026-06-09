@@ -50,7 +50,7 @@ Fabricação: A produção é realizada integralmente através de corte CNC, gar
 
 Sistema de Fixação: O desenvolvimento técnico assenta num sistema de encaixes por pressão com dogbones, garantindo rigidez estrutural sem a necessidade de parafusos, pregos ou colas ocultas.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: https://a360.co/4a9OCM7<!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função

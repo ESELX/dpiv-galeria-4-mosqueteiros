@@ -23,38 +23,43 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
 
-## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 2. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/43UFFT4
 
-## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 3. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
+![](attachments/primeiroprancha.jpeg)
 
-![](attachments/placeholder.png)
+![](attachments/testes1.jpeg)
+
+![](attachments/esboço1.jpeg)
+
+![](attachments/ideiaaviao.jpeg)
+
+![](attachments/testes2.jpeg)
+
+![](attachments/esboço.jpeg)
+
+![](attachments/testes3.jpeg)
+
+
+![](attachments/prototipo1.jpeg)
+
+![](attachments/ideia.jpeg)
+
+![](attachments/prototipo2.jpeg)
+
+![](attachments/testes11.jpeg)
+
+![](attachments/testes.jpeg)
 
 ## 7. Pesquisa
 

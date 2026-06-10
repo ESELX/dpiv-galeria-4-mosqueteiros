@@ -3,7 +3,7 @@ title: ComBot
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/bobo.jpeg
 hero_title: ComBot
 hero_subtitle: Guilherme Gonçalves · 2025-26
 hero_height: 80vh
@@ -29,9 +29,9 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-O **ComBot** é um comboio de madeira de pinho concebido para potenciar a imaginação e a criatividade das crianças. Combinando o conceito de blocos de construção e figuras transformáveis, este brinquedo oferece uma dupla experiência: pode ser conduzido como um comboio tradicional ou ser totalmente desmontado e reconstruído para dar forma a um robô. É acessível para todas as idades, no entanto, o ComBot foi desenhado especialmente para apoiar as crianças na sua fase essencial de desenvolvimento cognitivo e motor através do brincar.
+O **ComBot** é um comboio de madeira de pinho concebido para potenciar a imaginação e a criatividade das crianças. Combinando o conceito de blocos de construção e figuras transformáveis, este brinquedo oferece uma dupla experiência. Pode ser conduzido como um comboio tradicional ou ser totalmente desmontado e reconstruído para dar forma a um robô. É acessível para todas as idades, no entanto, o ComBot foi desenhado especialmente para apoiar as crianças na sua fase essencial de desenvolvimento cognitivo e motor através do brincar.
+![](attachments/conceito.jpeg)
 
-![](attachments/placeholder.png)
 
 ## Enquadramento
 

@@ -37,6 +37,12 @@ O **ComBot** é um comboio de madeira de pinho concebido para potenciar a imagin
 
 O projeto enquadra-se na filosofia sustentável do NESTOR, explorando a otimização de materiais e o aproveitamento industrial através do planeamento de corte inteligente. 
 
+Este comboio de madeira inspira-se nos brinquedos de madeira já existentes e muito populares — brinquedos muito populares desde a Revolução Industrial. Partindo destes brinquedos como inspiração, decidi inovar um pouco sobre o que as pessoas pensam de um comboio de brincar de madeira, utilizando também os famosos Legos e os Transformers.
+
+Este brinquedo contém várias peças que, montadas juntas, podem construir o seu próprio comboio de madeira ou o seu comboio robô de madeira. Sendo assim, este projeto irá influenciar positivamente a criatividade infantil, a sua coordenação e raciocínio, ao desafiar as crianças a construírem o seu brinquedo de uma forma divertida, tanto para se tornar um robô como para se tornar na locomotiva.
+
+Fazendo assim com que a criança possa arranjar uma brincadeira divertida e distraente o suficiente, transformando-se assim num palco para a imaginação e criatividade atuar
+
 ## Tecnologia
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.

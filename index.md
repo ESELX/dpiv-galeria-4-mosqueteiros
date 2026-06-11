@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/logo.png
 hero_title: 4 Mosqueteiros
-hero_subtitle: Design de Produto IV · 2025-26
+hero_subtitle: André Alves; Guilherme Gonçalves; Gonçalo Lucas; Leandro Arroio · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center

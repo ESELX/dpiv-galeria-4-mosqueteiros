@@ -64,7 +64,7 @@ A utilização da madeira apresenta também vantagens ao nível da sustentabilid
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
-![](attachments/mood.jpg)
+![](attachments/2.jpg)
 
 ### 3. Embalagem
 

@@ -45,21 +45,27 @@ Fazendo assim com que a criança possa arranjar uma brincadeira divertida e dist
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Este comboio de madeira que se transforma em robô é fabricado a partir de madeira de pinho de 15 mm, uma matéria-prima excelente para o corte em CNC devido à sua baixa densidade, que facilita a maquinação e reduz o desgaste das fresas. Além disso, sendo uma madeira macia, oferece pouca resistência à passagem da ferramenta de corte, o que permite velocidades de avanço mais rápidas e uma menor exigência do motor da máquina. Trata-se de um material leve, económico e de fácil aquisição, ideal tanto para protótipos como para peças finais. Estas características garantem um maior aproveitamento do material, resultando num brinquedo preciso e com poucas ou nenhumas falhas.
+
+O pinho corta de forma limpa,  aceitando muito bem tintas e vernizes, sendo que os seus veios naturais possuem um visual rústico e decorativo bastante apreciado. Relativamente ao processo de desenvolvimento, inicialmente foram realizados vários esboços para explorar as possibilidades de design. Em seguida, avançou-se para a fase de modelação 3D no software Fusion 360, permitindo que as formas fossem posteriormente cortadas na CNC para, finalmente, dar vida ao brinquedo.
 
 - Modelo 3D: https://a360.co/43UFFT4<!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+O **ComBot** de madeira funciona de uma forma muito dinâmica, oferecendo às crianças a liberdade de escolher qual das formas do brinquedo querem dar vida primeiro — sendo que a melhor parte é poderem fazê-lo quando e sempre que quiserem. 
+
+Inicialmente, podem brincar com ele como se fosse um comboio de madeira tradicional, simulando que o estão a conduzir através de rodas totalmente funcionais que facilitam o movimento. Cada vagão apresenta uma forma geométrica diferente, não só para captar a atenção dos mais novos e estimular a sua imaginação, mas também para facilitar a montagem e moldagem do corpo do robô. Sendo também um brinquedo para um público abrangente de todas as idades, mas foi idealmente realizado para crianças desde 2 até aos 10 anos, podendo acompanhar o seu crescimento.
+
+Ao transformá-lo em robô, abre-se um mundo de possibilidades onde as crianças podem brincar livremente, dando asas à criatividade e mergulhando no seu próprio universo imaginário.
 
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+![](attachments/Comboio%20de%20brincar%20com%20robô%20e%20comboio%20final%20v1.png)
+![](attachments/bô.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
 
 ---
 

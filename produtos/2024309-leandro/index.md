@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Labirinto
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Labirinto
+hero_subtitle: Leandro Arroio · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,7 +14,9 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Labirinto
+
+
 ![](attachments/labirinto.jpeg)
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,38 +24,38 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Brinquedo que ajuda a desenvolver foco e noção de equilíbrio
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
-
-![](attachments/placeholder.png)
+O Labirinto é uma reinvenção analógica e minimalista do labirinto clássico de madeira. Ao eliminar engrenagens, fios e molas, o jogo desafia a criança através de uma mecânica puramente física e intuitiva. Controlado diretamente com as duas mãos, exige um domínio fluido do eixo de rotação (frente/trás) combinado com o balanço lateral (esquerda/direita), e assim estimulamos o foco, a paciência e a cordenação motora das crianças.
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O projeto enquadra-se na filosofia sustentável do NESTOR, explorando a otimização de materiais e o aproveitamento industrial através do planeamento de corte inteligente.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+**Materiais:** O brinquedo será produzido em contraplacado de 15 mm de espessura, de forma a garantir a robustez necessária, mantendo a simplicidade e o minimalismo do produto.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+**Processos de Fabrico:** O fabrico será realizado através de corte em CNC (Controlo Numérico Computorizado). Este processo garante a máxima precisão dimensional e o rigor técnico necessário, especialmente no corte das calhas do próprio labirinto, assegurando que todos os componentes encaixam e funcionam perfeitamente.
+
+**Métodos:** Para a montagem, será aplicada a técnica de _dogbones_ (alívios de canto) nos encaixes de determinadas secções do labirinto. Esta solução será utilizada, por exemplo, nas pegas que controlam a rotação do eixo (frente/trás), permitindo que este mecanismo gire de forma suave e precisa, sem folgas estruturais.
+
+- Modelo 3D: <!-- embed Fusion ou link a360.co --> https://a360.co/4ojGNZM
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+O labirinto tem como função ajudar as crianças a desenvolver o equilíbrio, através de movimentos de rotação (para a frente e para trás) e de deslocação lateral (esquerda e direita) com o balançar das mãos. Trabalha também o foco e a concentração, bem como a própria coordenação motora, uma vez que o objetivo é não deixar cair a bola.
+
+O brinquedo é destinado a uma faixa etária dos 5 aos 10 anos, visto que o tamanho da bola pode ser perigoso para crianças entre os 2 e os 4 anos. O labirinto foi desenhado 'fora da caixa' para fugir à ideia fechada do modelo tradicional de madeira, apresentando um formato ergonómico que permite às crianças utilizá-lo de forma mais fácil e sem complicações.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![[IA Labirinto.jpeg]]
+![[Gemini_Generated_Image_u8wbj9u8wbj9u8wb.png]]
 
 ---
 

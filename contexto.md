@@ -1,11 +1,11 @@
 ---
-title: "Contexto de Design"
+title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Contexto de Design"
-hero_subtitle: "Enquadramento do grupo"
+hero_image: ../attachments/imagegrupo.jpeg
+hero_title: Contexto de Design
+hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
 hero_overlay: 0.3
 hero_align: center
@@ -45,12 +45,17 @@ In short, the Nestor brand merges ecological responsibility with product design,
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
+![](attachments/redesenho.jpeg)
 
-![Objeto 1](attachments/placeholder.png)
 
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+- **Labirinto** — O labirinto de madeira com esfera de metal é um dos brinquedos de coordenação mais icónicos do século XX. Inventado e patenteado na Suécia pela empresa BRIO em 1946, este brinquedo transformou o conceito milenar do labirinto num desafio físico de paciência e precisão.
+Foi escolhido este brinquedo pois é uma brincadeira que incentiva a criatividade e a paciência, já que a criança precisa testar diferentes caminhos e estratégias para encontrar a saída, deparando-se com diversos desafios. Este  labirinto também pode ser uma forma divertida de melhorar a coordenação motora e a percepção espacial, tornando o aprendizado lúdico e envolvente e contribuindo para o desenvolvimento da criança.
 
+- **Cavalo de Baloiço** — A história do cavalo de baloiço de madeira remonta ao século XVII. Originalmente, eram brinquedos luxuosos e caros, acessíveis apenas às famílias reais e à alta nobreza. Só a partir do século XIX, com a produção em massa, é que se tornaram mais acessíveis ao público em geral. Hoje, além de clássicos infantis, o conceito foi transformado em atrações turísticas em Portugal. 
+O motivo da escolha deste tipo de brinquedo está associado à sua importância no desenvolvimento das crianças. O cavalo de baloiço de madeira é mais do que um brinquedo clássico. Ele promove o desenvolvimento físico ao melhorar o equilíbrio e a coordenação motora. Além disso, estimula a imaginação através de brincadeiras simbólicas e, graças ao seu movimento rítmico, ajuda a criança a relaxar sendo também um brinquedo que ajuda as crianças a compreender o seu próprio corpo e a orientarem-se no espaço enquanto balançam.
+
+- **ComBot** — Os primeiros brinquedos de madeira e metal, frequentemente chumbo,  que se assemelhavam a comboios foram fabricados na Europa por volta de meados do século XIX. A maravilha tecnológica da locomotiva a vapor tinha surgido em força no início dos anos 1800, e muitas pessoas ficaram encantadas com a sua potência. Com a continuação da Revolução Industrial, surgiu a capacidade de produzir brinquedos e modelos à escala de vários tipos, e assim nasceram os comboios de brinquedo, de acordo com (Train Collectors Association, s.d.)
+O ponto de partida para a escolha do comboio de madeira está associado à sua importância a nível da aprendizagem que impulsiona o crescimento das crianças de forma integrada. No plano do desenvolvimento cognitivo e raciocínio, este brinquedo desafia a mente a cada segundo. Como não há luzes nem sons eletrónicos para ditar o ritmo, a criança dita as suas próprias regras, o que promove o foco e a paciência, aumentando significativamente o tempo de atenção concentrada numa única atividade. Em paralelo, o manuseamento físico do brinquedo refina as habilidades motoras e sensoriais, fundamentais ao desenvolvimento da criança. O ato minucioso de alinhar e encaixar as calhas de madeira desenvolve a motricidade fina e a força muscular dos dedos, essencial para a futura escrita e desenvolvimento de outras competências que requerem manuseamento.   Além disso, a riqueza da estimulação sensorial é única: o peso real da madeira, o som orgânico dos blocos a bater e a textura natural do material oferecem estímulos táteis ricos e calmantes, muito superiores à uniformidade fria do plástico, o que promove este contacto sensorial que permite o desenvolvimento de competências sociais essenciais para a criança estimulando também a criatividade. O brinquedo transforma-se num palco para a brincadeira simbólica, onde a criança cria narrativas complexas, inventa destinos, historias e significado da sua brincadeira permitindo também estimular a aprendizagem e o significado simbólico através de acidentes e organiza espaço onde o comboio se move. Este cenário rico expande a linguagem e o vocabulário, à medida que a criança imita os sons das máquinas e descreve o que idealiza. Além disso, é um brinquedo que se pode brincar em grupo reforçando a interação entre crianças e promovendo um espaço de partilha e de desenvolvimento das relações sociais.
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.

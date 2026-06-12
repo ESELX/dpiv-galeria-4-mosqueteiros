@@ -24,9 +24,6 @@ student_number: "2024274"
 
 > Frase-conceito (uma linha): qual é a proposta?
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
 - O que é?

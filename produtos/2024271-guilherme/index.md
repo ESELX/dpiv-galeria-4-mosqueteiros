@@ -24,9 +24,6 @@ student_number: "2024271"
 
 > Brinquedo que ajude a desenvolver a criatividade das crianças.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
 O **ComBot** é um comboio de madeira de pinho concebido para potenciar a imaginação e a criatividade das crianças. Combinando o conceito de blocos de construção e figuras transformáveis, este brinquedo oferece uma dupla experiência. Pode ser conduzido como um comboio tradicional ou ser totalmente desmontado e reconstruído para dar forma a um robô. É acessível para todas as idades, no entanto, o ComBot foi desenhado especialmente para apoiar as crianças na sua fase essencial de desenvolvimento cognitivo e motor através do brincar, pois desconstroem o comboio para o construir num poderoso robô.

@@ -33,7 +33,6 @@ Dirigido a crianças entre os 2 e os 8 anos, o brinquedo procura estimular o equ
 
 ![](attachments/cavalo_moodboard_basico.jpg)
 
-
 ## Enquadramento
 
 O projeto enquadra-se na filosofia sustentável do NESTOR, explorando a otimização de materiais e o aproveitamento industrial através do planeamento de corte inteligente. A sua volumetria foi planeada para maximizar a estabilidade física sem a necessidade de componentes complexos adicionais.

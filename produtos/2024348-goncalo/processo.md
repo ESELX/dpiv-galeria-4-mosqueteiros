@@ -59,8 +59,8 @@ Ao contrário dos cavalos de baloiço convencionais que assentam em estruturas c
 
 
 ### 4.2. Objetos de referencia
-
 Inventário de precedentes, brinquedos análogos, referências históricas.
+
 ![](attachments/ref1.jpg)
 ![](attachments/ref2.avif)
 ![](attachments/ref3.jpg)

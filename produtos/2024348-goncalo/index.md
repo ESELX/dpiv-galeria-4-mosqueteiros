@@ -13,7 +13,6 @@ published: true
 student_name: ""
 student_number: ""
 ---
-
 # Cavalo de Baloiço
 ![](attachments/cavalo.jpeg)
 <!--
@@ -23,7 +22,6 @@ student_number: ""
 -->
 
 > Desafie a habilidade do seu filho.
-
 
 ## Conceito
 

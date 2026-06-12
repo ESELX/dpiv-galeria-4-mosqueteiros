@@ -22,6 +22,9 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![](attachments/cavalofusion1.png)
 ![](attachments/cavalofusion2.png)
+![](attachments/cavalofusion3.png)
+![](attachments/cavalofusion4.png)
+
 
 ## 2. Modelos 3D
 
@@ -36,7 +39,9 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![](attachments/esboco1.jpg)
+![](attachments/esboco7.jpg)
+![](attachments/esboco9.jpg)
 
 ## 4. Pesquisa
 
@@ -52,13 +57,13 @@ Ao contrário dos cavalos de baloiço convencionais que assentam em estruturas c
     
 - Os rasgos verticais e horizontais ditam o travamento rígido do objeto através da própria matéria-prima.
 
-![](attachments/placeholder.png)
 
 ### 4.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
+![](attachments/ref1.jpg)
+![](attachments/ref2.avif)
+![](attachments/ref3.jpg)
 
 ## 5. Outros Elementos
 

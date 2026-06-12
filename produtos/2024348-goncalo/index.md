@@ -22,7 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Desafia a habilidade do seu filho.
+> Desafie a habilidade do seu filho.
 
 
 ## Conceito
@@ -32,7 +32,6 @@ O brinquedo baseia-se na reinterpretação do clássico cavalo de baloiço atrav
 Dirigido a crianças entre os 2 e os 8 anos, o brinquedo procura estimular o equilíbrio, a percepção espacial e a coordenação motora grossa através do ato mecânico de baloiçar. A liberdade formal do desenho apela ao imaginário infantil, enquanto o acabamento neutro da madeira convida à posterior personalização ou pintura por parte das crianças, prolongando o tempo de ligação emocional e lúdica com o objeto.
 
 ![](attachments/cavalo_moodboard_basico.jpg)
-
 
 
 ## Enquadramento
@@ -62,7 +61,7 @@ Destinado a uma faixa etária abrangente (dos 2 aos 8 anos), as dimensões e o c
 
 Imagens-chave que sintetizam o produto final.
 ![](attachments/cavalo_na_sala.png)
-![](attachments/bebe_no_cavalo.png)---
+![](attachments/bebe_no_cavalo.png)
 
 ## Processo
 

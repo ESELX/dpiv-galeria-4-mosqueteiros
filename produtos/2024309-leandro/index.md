@@ -54,8 +54,8 @@ O brinquedo é destinado a uma faixa etária dos 5 aos 10 anos, visto que o tama
 
 ## Apresentação
 
-![[attachments/IA Labirinto.jpeg]]
-![[attachments/Gemini_Generated_Image_u8wbj9u8wbj9u8wb.png]]
+![](attachments/labirinto.jpeg)
+![](attachments/Lab.png)
 
 ---
 

@@ -10,8 +10,8 @@ hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Leandro Arroio
+student_number: "2024309"
 ---
 
 # Labirinto
@@ -54,8 +54,8 @@ O brinquedo é destinado a uma faixa etária dos 5 aos 10 anos, visto que o tama
 
 ## Apresentação
 
-![[IA Labirinto.jpeg]]
-![[Gemini_Generated_Image_u8wbj9u8wbj9u8wb.png]]
+![[attachments/IA Labirinto.jpeg]]
+![[attachments/Gemini_Generated_Image_u8wbj9u8wbj9u8wb.png]]
 
 ---
 

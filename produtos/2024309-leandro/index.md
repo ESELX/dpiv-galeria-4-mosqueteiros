@@ -3,7 +3,7 @@ title: Labirinto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: ../attachments/labirinto.jpeg
 hero_title: Labirinto
 hero_subtitle: Leandro Arroio · 2025-26
 hero_height: 80vh

@@ -20,54 +20,42 @@ published: true
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/Prototipo1.png)
+![](attachments/Prototipo2.png)
 
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 2. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/4ojGNZM
 
-## 5. Outros Modelos
+## 3. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Aqui temos a maquete que elaborei antes da construção no Fusion, para testar o que funcionava e o que não funcionava. Foi aqui que descobri que poderia simplesmente utilizar as duas mãos para **o** rodar no eixo frente/trás e, ao mesmo tempo, balançá-lo para a esquerda e para a direita.
 
-![](attachments/placeholder.png)
+![](attachments/Maqueta.jpg)
 
-## 6. Esboços e Pranchas-Resumo
+## 4. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+Estão representados os esboços e as pranchas-resumo do percurso, desde o início até ao resultado final.
 
-![](attachments/placeholder.png)
+Inicialmente, tinha a ideia de fazer um labirinto de três andares. No entanto, como percebi que tapar a visão **às** crianças no andar de baixo não seria uma boa solução, lembrei-me do que o professor me tinha recomendado (fazer um labirinto 'fora da caixa'). Foi daí que surgiu a ideia de criar o labirinto que tenho atualmente.
 
-## 7. Pesquisa
+![](attachments/esboço2.jpg)
+![](attachments/esboço3.jpg)
+![](attachments/esboço1.jpg)
+## 5. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+Este brinquedo segue inicialmente a lógica de um labirinto de madeira comum, mas diferencia-se totalmente na sua estrutura. Em vez de ser uma caixa fechada e colada, a sua forma foi desconstruída num conjunto de peças de madeira que se encaixam de forma inteligente, como se pode ver na vista explodida. O que distingue este brinquedo de todos os outros é o seu sistema de rotação: a criança consegue usar as duas mãos ao mesmo tempo para rodar o eixo para a frente e para trás e, em simultâneo, balançá-lo para a esquerda e para a direita, guiando a bola através do movimento do próprio corpo.
 
-### 7.2. Objetos de referencia
+### 5.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![427](attachments/labirintoclassico.jpg)
 
-## 9. Outros Elementos
+## 6. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+Para melhorar este trabalho, poderia ter feito um suporte ou uma gaveta por baixo do tabuleiro, para que a bola não caísse no chão com o risco de se perder. 
